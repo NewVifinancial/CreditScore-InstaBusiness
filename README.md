@@ -1,2 +1,4 @@
 # CreditScore-InstaBusiness
-Credit scoring script for Instabusiness
+
+Calculating credit score for instabusiness clients based on stated parameters
+

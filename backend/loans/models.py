@@ -56,3 +56,9 @@ class CreditScore(models.Model):
     median_cash_out_score = models.IntegerField(blank=True,null=True) # median cash Out transactions per month
     credit_score = models.IntegerField(blank=True,null=True)
     eligibility = models.IntegerField(blank=True,null=True)
+    freq_activity = models.IntegerField(blank=True,null=True)
+    freq_of_rebal = models.IntegerField(blank=True,null=True)
+    mode_cash_in = models.IntegerField(blank=True,null=True) # month with highestcash in transactions
+    median_cash_in = models.IntegerField(blank=True,null=True) # median cash In transactions per month
+    mode_cash_out = models.IntegerField(blank=True,null=True) # month with highest cash out transactions
+    median_cash_out = models.IntegerField(blank=True,null=True) # median cash Out transactions per month

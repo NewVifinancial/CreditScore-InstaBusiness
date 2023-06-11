@@ -11,7 +11,8 @@ csv_filepathname=r"C:\Users\Chakdahah\Downloads\Django-main\Django-main\analytic
 
 csv_filepathname_calc=r"C:\Users\Chakdahah\Downloads\Django-main\Django-main\analytics_project\elligible.csv"
 
-csv_filepathname_score=r"C:\Users\Chakdahah\Downloads\Django-main\Django-main\analytics_project\scoretable.csv"
+csv_filepathname_score=r"C:\Users\Chakdahah\Downloads\Django-main\Django-main\analytics_project\combtable.csv"
+
 
 # Full path to the directory immediately above your django project directory
 your_djangoproject_home= r"C:\Users\Chakdahah\Downloads\Django-main\Django-main"
